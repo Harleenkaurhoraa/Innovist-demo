@@ -4,7 +4,6 @@ import streamlit as st
 st.set_page_config(page_title="Bare Anatomy Chatbot", page_icon="💬")
 
 st.title("💬 Bare Anatomy - Smart Haircare Assistant")
-st.markdown("Ask me anything about your hair concerns, products, or orders!")
 
 # Sample Product Info (simplified)
 products = {
