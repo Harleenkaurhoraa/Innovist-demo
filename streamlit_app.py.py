@@ -17,7 +17,7 @@ faqs = {
     "How long does it take to see visible results?": "Typically, users see noticeable results within 2-4 weeks of consistent use.",
     "How do I track my order?": "You can track your order using the tracking link sent to your email after dispatch.",
     "Do you ship internationally?": "Currently, we ship only within India. International shipping is coming soon!",
-    "What is your return or refund policy?": "We offer a 7-day return policy if the product is unopened and unused.",
+    "What's your return policy?": "We offer a 7-day return policy if the product is unopened and unused.",
     "How do I know which product is right for me?": "You can use this chatbot or our product filter to find personalized recommendations.",
     "Are your products cruelty-free?": "Yes! All Bare Anatomy products are cruelty-free and vegan.",
     "Can I use your products on colored hair?": "Absolutely! Our shampoos are safe for chemically treated or colored hair.",
